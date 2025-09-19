@@ -102,3 +102,7 @@ theme: onenote
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+hash:
+  enable: true    
