@@ -106,10 +106,10 @@ a
     justify-content: flex-start;
     align-content: center;
 }
-.post-header .logo
+/* .post-header .logo
 {
     font-size: 1rem;
-}
+} */
 .post-header .go-home
 {
     display: block;
